@@ -1,0 +1,9 @@
+{
+  "name": "insertionsort",
+  "version": "1.0.0",
+  "main": "insertionSort.js",
+  "scripts": {
+    "dev" : "node insertionSort.js"
+  },
+  "license": "MIT"
+}
