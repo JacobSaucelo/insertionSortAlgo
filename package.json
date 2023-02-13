@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "insertionSort.js",
   "scripts": {
-    "dev" : "node insertionSort.js"
+    "dev": "node objectInsertionSort.js"
   },
   "license": "MIT"
 }
